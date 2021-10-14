@@ -1,4 +1,4 @@
-# Geodata_ML_Excercise
+# Geodata_ML
 
 Everything is explained step by step in the Jupyter Notebook/ Html file.
 
